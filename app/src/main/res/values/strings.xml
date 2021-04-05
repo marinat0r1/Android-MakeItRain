@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MakeItRain</string>
+    <string name="app_name">Make It Rain</string>
+    <string name="main_activity_title">You have</string>
+    <string name="cash_amount">$0</string>
+    <string name="main_activity_button">MAKE IT RAIN</string>
+    <string name="show_tag">SHOW TAG</string>
+    <string name="toast_show_tag">This is a Toast</string>
 </resources>
